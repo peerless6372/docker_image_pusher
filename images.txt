@@ -1,4 +1,3 @@
---platform=darwin/arm64  golang:1.21.10  
 --platform=darwin/arm64  nixos/nix:2.3.12
 --platform=darwin/arm64  golang:1.14-buster
 #test
