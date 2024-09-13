@@ -1,4 +1,3 @@
---platform=linux/arm64  golang:1.21.10
---platform=linux/arm64  chartmuseum/chartmuseum:latest
+--platform=linux/arm64  ghcr.io/helm/chartmuseum:0.16.0
 
 #test
