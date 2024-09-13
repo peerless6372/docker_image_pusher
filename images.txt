@@ -1,3 +1,4 @@
 --platform=linux/arm64  golang:1.21.10
+--platform=linux/arm64  chartmuseum:latest
 
 #test
