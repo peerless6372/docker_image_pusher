@@ -1,2 +1,1 @@
---platform=linux/arm64   golang:latest
---platform=linux/amd64  golang:latest
+--platform=linux/arm64   moby/buildkit:buildx-stable-1
