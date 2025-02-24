@@ -1,1 +1,1 @@
---platform=linux/amd64   mintplexlabs/anythingllm:latest
+--platform=linux/arm64   mintplexlabs/anythingllm:latest
